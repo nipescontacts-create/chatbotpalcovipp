@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+
+  <meta charset="UTF-8" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Chat Palco VIP</title>
+
+  <style>
+
+    body {
+
+      margin: 0;
+
+      padding: 0;
+
+      background-image: url('https://images.unsplash.com/photo-1508264165352-258a6d234f4a');
+
+      background-size: cover;
+
+      background-position: center;
+
+      background-repeat: no-repeat;
+
+      font-family: Arial, sans-serif;
+
+      height: 100vh;
+
+      width: 100vw;
+
+      display: flex;
+
+      justify-content: center;
+
+      align-items: center;
+
+      backdrop-filter: blur(3px);
+
+      color: white;
+
+      text-shadow: 1px 1px 3px black;
+
+    }
+
+    h1 {
+
+      font-size: 2.2rem;
+
+      background: rgba(0,0,0,0.55);
+
+      padding: 16px 26px;
+
+      border-radius: 10px;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <h1>Bienvenido al Chat Palco VIP</h1>
+
+  <script 
+
+    src="https://cdn.builderbot.cloud/sdk.umd.js" 
+
+    data-builderbot-chat
+
+    data-company="BuilderBot"
+
+    data-id="2cae2b1d-6429-4e5a-872e-5aa9996ee2bd"
+
+  ></script>
+
+</body>
+
+</html>
